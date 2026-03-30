@@ -1,0 +1,32 @@
+{
+  "polyclinic": {
+    "name": "Поликлиника",
+    "chat_id": "-72822335959749",
+    "short": "POLY"
+  },
+  "surgery": {
+    "name": "Хирургия",
+    "chat_id": "-72822408114885",
+    "short": "SURG"
+  },
+  "therapy": {
+    "name": "Терапия",
+    "chat_id": "-72822449140421",
+    "short": "THER"
+  },
+  "pediatrics": {
+    "name": "Педиатрия",
+    "chat_id": "-72822476796613",
+    "short": "PED"
+  },
+  "emergency": {
+    "name": "Приемное отделение",
+    "chat_id": "-72822505960133",
+    "short": "ER"
+  },
+  "infekciya": {
+    "name": "Инфекционное отделение",
+    "chat_id": "-72822532305605",
+    "short": "INF"
+  }
+}
